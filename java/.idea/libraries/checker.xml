@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="checker">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/intellij-checker-framework/lib/checker.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/intellij-checker-framework/lib/intellij-checker-framework.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

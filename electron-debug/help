@@ -1,0 +1,11 @@
+for debugging:
+
+http://floatincode.net/post/debugging-electron-application-with-visual-studio-code
+
+Start Electron application with debugging enabled:
+
+$ electron --debug=5858 hello-world/
+
+In VS code debug panel choose “Attach” configuration and press “Start” or F5.
+After few seconds if everything went successfully you should see debug commands:
+

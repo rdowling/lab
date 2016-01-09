@@ -1,0 +1,19 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "name": "Launch Electron",
+            "type": "node",
+            "program": "main.js", // this is important
+            "stopOnEntry": false,
+            "args": [],
+            "cwd": "/Users/iyc/D/test",
+            // as you have noted, this is also important:
+            "runtimeExecutable": "/Users/iyc/.npm-packages/bin/electron",
+            "runtimeArguments": [],
+            "env": { },
+            "sourceMaps": false
+
+        }
+    ]
+}
